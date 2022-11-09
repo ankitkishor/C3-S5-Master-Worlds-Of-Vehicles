@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a30fdee-fac2-4880-a0b3-523ccb945ee7" name="Changes" comment="updated the version of jdk from 19 to 11">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Transmission.java" afterDir="false" />
+    <list default="true" id="3a30fdee-fac2-4880-a0b3-523ccb945ee7" name="Changes" comment="created the class name AutomaticDCT.java">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AutomatedManualTransmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AutomatedManualTransmission.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AutomaticCVT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AutomaticCVT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AutomaticDCT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AutomaticDCT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Manual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Transmission.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +37,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="C3-S5-Master-Worlds-Of-Vehicles" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +82,42 @@
       <option name="project" value="LOCAL" />
       <updated>1668005742276</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created the class name Transmission">
+      <created>1668006159344</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668006159344</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created the class name Manual">
+      <created>1668006198078</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668006198078</updated>
+    </task>
+    <task id="LOCAL-00005" summary="created the class name AutomatedManualTransmission.java">
+      <created>1668006443543</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668006443543</updated>
+    </task>
+    <task id="LOCAL-00006" summary="created the class name AutomaticCVT.java">
+      <created>1668006464593</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668006464593</updated>
+    </task>
+    <task id="LOCAL-00007" summary="created the class name AutomaticDCT.java">
+      <created>1668006484975</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668006484975</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +134,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="updated the version of jdk from 19 to 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the version of jdk from 19 to 11" />
+    <MESSAGE value="created the class name Transmission" />
+    <MESSAGE value="created the class name Manual" />
+    <MESSAGE value="created the class name AutomatedManualTransmission.java" />
+    <MESSAGE value="created the class name AutomaticCVT.java" />
+    <MESSAGE value="created the class name AutomaticDCT.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the class name AutomaticDCT.java" />
   </component>
 </project>
